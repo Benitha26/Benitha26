@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Benitha Gadupudi</h1>
-<h5 align="left">Cloud Engineer with 4 years of expertise deploying resources in Azure Cloud using Terraform and building CI/CD pipelines with Azure DevOps. Delivered scalable cloud solutions across retail and commercial financial services(UK), chain of general merchandise stores(Japan), and IT consulting services(AU). Currently pursuing a Master's in Computer Science at George Washington University, focusing on cloud-related courses to deepen understanding. Exploring multi-cloud technologies through AWS coursework, enhancing future career prospects in cloud engineering.</h5>
+<h5 align="justify">Cloud Engineer with 4 years of expertise deploying resources in Azure Cloud using Terraform and building CI/CD pipelines with Azure DevOps. Delivered scalable cloud solutions across retail and commercial financial services(UK), chain of general merchandise stores(Japan), and IT consulting services(AU). Currently pursuing a Master's in Computer Science at George Washington University, focusing on cloud-related courses to deepen understanding. Exploring multi-cloud technologies through AWS coursework, enhancing future career prospects in cloud engineering.</h5>
 
 - Mail Id: **benithachoudary1997@gmail.com**
 
